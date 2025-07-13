@@ -86,4 +86,4 @@ aviation-risk-analysis/
 ## 📬 Contact
 
 Patricia Louissaint  
-[LinkedIn](https://www.linkedin.com/) *(add your real profile)*
+[LinkedIn](https://www.linkedin.com/in/patricia-louissaint-831666a5/) *(add your real profile)*
