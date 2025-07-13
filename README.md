@@ -70,4 +70,20 @@ Explore accident trends interactively:
 
 ## Project Structure
 
+aviation-risk-analysis/
+├──  README.md
+├──  presentation.pdf
+├──  final_notebook.ipynb
+├──  images/
+│ ├── accidents_by_make.png
+│ ├── top_injury_make.png
+│ └── risk_df.png
 
+
+
+---
+
+## 📬 Contact
+
+Patricia Louissaint  
+[LinkedIn](https://www.linkedin.com/) *(add your real profile)*
