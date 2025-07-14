@@ -44,20 +44,19 @@ Our company is exploring the aviation sector and needs to evaluate the **lowest-
 
 ## Recommendations
 
-1. **Prioritize Lower-Risk Makes:**  
-   Begin fleet acquisition with aircraft makes that consistently appear at the bottom of the risk index, such as those with low accident frequency and injury severity.
+1.	**Invest in Low-Risk Aircraft Makes:** Prioritize aircraft from the top 3–5 lowest-risk manufacturers based on composite risk scores (e.g., Cessna, Piper). These makes show strong safety   profiles across accident frequency and injury severity.
 
-2. **Avoid High-Risk Models:**  
-   Deprioritize makes with high risk scores, especially those with high fatality rates and serious injuries.
+2.	**Avoid High-Risk Manufacturers:** Refrain from purchasing aircraft with consistently high fatality or severity rates, even if their total accident counts are lower.
 
-3. **Inspect Single-Engine Aircraft Carefully:**  
-   Single-engine planes are most common in accidents. More rigorous inspection and maintenance protocols should be adopted for these models.
+3.	**Focus Maintenance on Single-Engine Aircraft:** Accident rates are higher among single-engine aircraft. Allocate resources to maintenance, inspection, and pilot training specifically for these models.
+
+4.	**Conduct Further Safety Analysis:** Explore trends by flight phase and weather conditions to improve operational planning and targeted safety investments.
 
 ---
 
 ## Conclusion
 
-This analysis provides the foundation for safer, data-driven aircraft procurement. The composite scoring approach can be expanded to include aircraft model, operator type, and region for further accuracy.
+These insights help the company make data-driven decisions in entering the aviation industry.
 
 ---
 
